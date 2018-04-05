@@ -17,4 +17,4 @@
 
 <p>Link to deployed site:</p>
 <a href="https://aliperez.github.io/Charity-Connect/">Charity Connect</a>
-![alt text](img/CC.jpg "Charity Connect")
+<img src="img/CC.jpg" alt="Charity Connect">
